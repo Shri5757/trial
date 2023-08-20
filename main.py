@@ -1,4 +1,5 @@
 import functions
+print("hi")
 
 while True:
     user_action = input("Enter add, show, edit, complete or exit: ")
