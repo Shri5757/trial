@@ -1,4 +1,5 @@
-wash clothes
-learn
-new todo
+read
+watch
 workout
+master python
+play cricket
